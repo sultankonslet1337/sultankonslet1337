@@ -1,6 +1,6 @@
-<!-- Profil Banner -->
+<!--  -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Muhammad%20Zainal%20Abidinz&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://i.imgur.com/L94m4IU.jpeg" alt="root@konslet Banner" width="100%" />
 </p>
 
 ## 👨‍💻 Tentang Saya
