@@ -1,7 +1,10 @@
-<!--  -->
+
+```markdown
 <p align="center">
-  <img src="[[https://i.imgur.com/L94m4IU.jpeg](https://scontent.fcgk42-1.fna.fbcdn.net/v/t1.6435-1/83126832_2514502545476278_7450600912218750976_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=YxPgse6batIQ7kNvwGO1iso&_nc_oc=AdmRjH9TO2QHVdl-3Dei4CAw8x4Dhp3C6RMjBZX5U78hNfmQNBmGEWEii9BnrdXT9Do&_nc_zt=24&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=mZVwiXlR1iVCrXbN7LEghQ&oh=00_AfNidCcPrSB5kfLuyAzdgmP0reooKRolfoH-X4TFEzlCLg&oe=68865399)](https://scontent.fcgk42-1.fna.fbcdn.net/v/t1.6435-1/83126832_2514502545476278_7450600912218750976_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=YxPgse6batIQ7kNvwGO1iso&_nc_oc=AdmRjH9TO2QHVdl-3Dei4CAw8x4Dhp3C6RMjBZX5U78hNfmQNBmGEWEii9BnrdXT9Do&_nc_zt=24&_nc_ht=scontent.fcgk42-1.fna&_nc_gid=mZVwiXlR1iVCrXbN7LEghQ&oh=00_AfNidCcPrSB5kfLuyAzdgmP0reooKRolfoH-X4TFEzlCLg&oe=68865399)" alt="root@konslet Banner" width="100%" />
+  <img src="https://i.imgur.com/L94m4IU.jpeg" alt="root@konslet" width="200" style="border-radius: 50%; border: 2px solid #0f0;">
 </p>
+
+<h3 align="center">👨‍💻 root@konslet terminal initialized...</h3>
 
 ## 👨‍💻 Tentang Saya
 
