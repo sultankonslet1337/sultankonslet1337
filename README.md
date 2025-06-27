@@ -1,11 +1,4 @@
 
-```markdown
-<p align="center">
-  <img src="https://i.imgur.com/L94m4IU.jpeg" alt="root@konslet" width="200" style="border-radius: 50%; border: 2px solid #0f0;">
-</p>
-
-<h3 align="center">👨‍💻 root@konslet terminal initialized...</h3>
-
 ## 👨‍💻 Tentang Saya
 
 Halo! Saya **Muhammad Zainal Abidinz** (aka `sultankonslet1337`), seorang programmer independen yang fokus pada:
