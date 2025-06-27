@@ -22,20 +22,6 @@ Saya percaya bahwa **kode yang baik** bukan hanya berfungsi, tapi juga rapi dan 
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
 </p>
 
----
-
-## 📈 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultankonslet1337&show_icons=true&theme=tokyonight&hide=issues" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultankonslet1337&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultankonslet1337&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 🔗 Kontak & Kolaborasi
 
